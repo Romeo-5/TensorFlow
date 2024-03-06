@@ -1,2 +1,9 @@
 # TensorFlow
-A collection of Jupyter Notebook projects. Milestone projects include Food Vision (a computer vision project), SkimLit (a natural language processing project), and BitPredict (a time series project). 
+This repository contains a collection of Jupyter Notebook projects designed to guide you through the fundamental concepts of TensorFlow and its applications in various machine learning domains.
+
+## Milestone Projects 
+* Food Vision - image classification with computer vision 
+* SkimLit - predicting classification of sentences using natural language processing
+* BitPredict - predicted price of bitcoin with time series forecasting
+
+
